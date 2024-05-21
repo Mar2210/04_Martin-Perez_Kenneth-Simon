@@ -1,0 +1,15 @@
+.recipe-details {
+  max-width: 100px;
+  margin: 0 auto;
+  padding: 1rem;
+}
+
+img {
+  width: 50%;
+}
+
+h1 {
+  text-align: center;
+  color: #260505;
+}
+  
